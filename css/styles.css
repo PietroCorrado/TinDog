@@ -30,6 +30,7 @@ p {
   font-size: 3.5rem;
   font-weight: 900;
   line-height: 1.5;
+  text-align: left;
 }
 
 .section-heading {
@@ -76,7 +77,6 @@ p {
 
 #title .container-fluid {
   padding: 3% 15% 7%;
-  text-align: left;
 }
 
 /* Title Image */
@@ -178,4 +178,8 @@ z-index: 1;
 
 .social-icon {
   margin: 15px 8px;
+}
+
+footer .container-fluid {
+  padding: 3% !important;
 }
